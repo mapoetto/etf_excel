@@ -10,3 +10,11 @@ Excel file contains two VB macro:
 
 Python webserver use this [repository]([https://pages.github.com/](https://github.com/druzsan/justetf-scraping)). to get data from justetf.com
 
+
+
+How to setup:
+  -  Install python3
+  -  Install pip
+  -  pip install -r requirements.txt
+  -  python3 just_etf_server.py
+  -  Use the excel file
